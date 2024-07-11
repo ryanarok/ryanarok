@@ -1,10 +1,12 @@
-## Reynier García
+# Reynier García
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,cs,dotnet,godot,java,lua,html,css,sqlite,py,unity,debian,discord)](https://skillicons.dev)
 
+## [My Codeforces Stats](https://codeforces.com/profile/ryanarokx)
+
 ![](https://raw.githubusercontent.com/ryanarok/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
 
-# 📫 How you can reach me?
+## How you can reach me?
 - By Telegram [Ryanarok](https://t.me/ryanarok)
 - By Email ryanarokx@gmail.com
 
