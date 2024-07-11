@@ -3,6 +3,8 @@
 [![My Skills](https://skillicons.dev/icons?i=cpp,cs,dotnet,godot,java,lua,html,css,sqlite,py,unity,debian,discord)](https://skillicons.dev)
 
 ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=ryanarokx)
+![](https://raw.githubusercontent.com/ryanarok/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/ryanarok/cf-stats/main/output/light_card.svg)
 
 # 📫 How you can reach me?
 - By Telegram [Ryanarok](https://t.me/ryanarok)
