@@ -1,8 +1,9 @@
-## Hi there 👋
+## Reynier García
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,cs,dotnet,godot,java,lua,html,css,sqlite,py,unity,debian,discord)](https://skillicons.dev)
 
 ![](https://raw.githubusercontent.com/ryanarokx/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
+![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=ryanarokx)
 <!--
 **ryanarok/ryanarok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
