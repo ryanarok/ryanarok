@@ -1,8 +1,6 @@
 # Reynier García
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,cs,html,css,js,py)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=godot,unity,lua,discord,sqlite,django)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=git,vscode,linux,debian)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,cs,html,css,js,py,godot,unity,lua,discord,sqlite,django,git,vscode,linux,debian&perline=6)](https://skillicons.dev)
 
 <!--## [My Codeforces Stats](https://codeforces.com/profile/ryanarokx)-->
 
